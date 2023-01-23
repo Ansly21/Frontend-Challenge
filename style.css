@@ -8,6 +8,12 @@ body {
     padding: 3rem;
 }
 
+header {
+    margin: auto;
+    width: 90%;
+    padding: 1rem;
+}
+
 img {
     width: 50%;
     border-top-left-radius: 10px;
@@ -20,7 +26,6 @@ img {
     border-radius: 10px;
     width: 45%;
     margin: auto;
-    
 }
 
 .right {
@@ -91,7 +96,7 @@ span {
 }
 
 .attribution {
-    margin: 2rem;
+    margin: 1rem;
     text-align: center;
 }
 
