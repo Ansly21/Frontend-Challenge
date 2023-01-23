@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/Median21/Frontend-Mentor-Product-preview-card-component-
+- Solution URL: https://github.com/Ansly21/Frontend-Challenge
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
