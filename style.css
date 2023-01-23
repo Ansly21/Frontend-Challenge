@@ -5,7 +5,7 @@
 
 body {
     background-color: hsl(30, 38%, 92%);
-    padding: 4rem;
+    padding: 3rem;
 }
 
 img {
@@ -98,7 +98,8 @@ span {
 @media (max-width: 1556px) {
 .container {
     flex-direction: column;
-    
+    width: 30%;
+
 }
 
 img {
@@ -107,7 +108,7 @@ img {
     border-top-right-radius: 10px;
     width: 100%;
     object-fit: cover;
-    height: 500px;
+    height: 300px;
 }
 
 .prod-name {
