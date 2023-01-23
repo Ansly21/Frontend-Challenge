@@ -6,12 +6,14 @@
 body {
     background-color: hsl(30, 38%, 92%);
     padding: 3rem;
+    height: 100vh;
 }
 
 header {
-    margin: auto;
+    margin: 0 auto;
     width: 90%;
-    padding: 1rem;
+    padding: 8rem 0;
+    padding-top: 4rem;
 }
 
 img {
@@ -26,6 +28,7 @@ img {
     border-radius: 10px;
     width: 45%;
     margin: auto;
+
 }
 
 .right {
