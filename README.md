@@ -42,7 +42,7 @@ Users should be able to:
 
 ### Screenshot
 
-![alt text](/design/completed_design.png)
+![](/design/completed_design.png)
 
 
 ### What I learned
