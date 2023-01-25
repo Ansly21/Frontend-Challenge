@@ -40,7 +40,7 @@ Users should be able to:
 - CSS Grid
 - Desktop-first workflow
 
-## Screenshot
+### Screenshot
 
 ![alt text](/design/completed_design.png)
 
