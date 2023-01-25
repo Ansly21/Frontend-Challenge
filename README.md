@@ -9,6 +9,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Screenshot] (#screenshot)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
@@ -27,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Ansly21/Frontend-Challenge
-- Live Site URL: frontend-mentor-product.netlify.app
+- Live Site URL: https://frontend-mentor-product.netlify.app
 
 ## My process
 
@@ -38,6 +39,11 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Desktop-first workflow
+
+## Screenshot
+
+![alt text](/design/completed_design.png)
+
 
 ### What I learned
 
