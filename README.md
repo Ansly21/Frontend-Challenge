@@ -6,10 +6,10 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Screenshot] (#screenshot)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
@@ -25,6 +25,10 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
+### Screenshot
+
+![](/design/completed_design.png)
+
 ### Links
 
 - Solution URL: https://github.com/Ansly21/Frontend-Challenge
@@ -39,10 +43,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Desktop-first workflow
-
-### Screenshot
-
-![](/design/completed_design.png)
 
 
 ### What I learned
